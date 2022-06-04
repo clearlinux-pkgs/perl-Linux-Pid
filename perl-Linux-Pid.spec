@@ -4,7 +4,7 @@
 #
 Name     : perl-Linux-Pid
 Version  : 0.04
-Release  : 11
+Release  : 12
 URL      : https://cpan.metacpan.org/authors/id/R/RG/RGARCIA/Linux-Pid-0.04.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RG/RGARCIA/Linux-Pid-0.04.tar.gz
 Summary  : No detailed summary available
